@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryamfadhillah
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning codeigniter
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on mini project
 - 📫 How to reach me :
 
