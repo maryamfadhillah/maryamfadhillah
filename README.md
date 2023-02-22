@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @maryamfadhillah
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in web developing
+- 🌱 You can reach out my learning journey on <a href="https://exercism.org/profiles/maryamfadhillah">my Exercism Profile</a>
 - 💞️ I’m looking to collaborate on mini project
-- 📫 How to reach me :
+- 📫 reach me on social media:
 
-maryam@student.uns.ac.id
+<a href='https://www.linkedin.com/in/maryam-fadhillah-7089291aa/'><img align='left' src='https://raw.githubusercontent.com/maryamfadhillah/social-media-icon/main/images/linkedin.svg' width='21px'/></a>
+<a href='maryam@student.uns.ac.id'><img align='left' src='https://raw.githubusercontent.com/maryamfadhillah/social-media-icon/main/images/gmail.png' width='21px'/></a>
+
 
 <!---
 maryamfadhillah/maryamfadhillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
