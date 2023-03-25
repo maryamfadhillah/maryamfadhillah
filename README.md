@@ -5,7 +5,7 @@
 - javascript (reach out my exercism profile <a href="https://exercism.org/profiles/maryamfadhillah">here</a>)
 
 ## 👀 Currently working on 
--
+- Learn Quran as Frontend Developer
 
 ## 📫 Social Media
 <a href='https://www.linkedin.com/in/maryam-fadhillah-7089291aa/'><img align='left' src='https://raw.githubusercontent.com/maryamfadhillah/social-media-icon/main/images/linkedin.svg' width='21px'/></a>
