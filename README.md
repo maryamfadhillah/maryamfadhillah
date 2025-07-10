@@ -1,14 +1,16 @@
-<h1 align='center'>Hi there, I'm Maryam 👋</h1>
-<p align='center'>I love the process od building a website, including designing and making codes. I like to make a website be more attractive and comfortable to use, but learning for back-end stuff is also interesting.</p>
+### Hi there, I'm Maryam  
+<p>I currently work as a PHP Developer at Lawencon International. I've been using PHP for 4 years, along with its supportive companion, JavaScript.
 
-## 🌱 Currently Learning
+There are so many frameworks and stacks we can use with PHP, and I’m eager to explore this environment further. I'm focused on improving my problem-solving skills to write clean, maintainable code.</p>
+
+### 🌱 Currently Learning
 - javascript (reach out my exercism profile <a href="https://exercism.org/profiles/maryamfadhillah">here</a>)
 
-## 👀 Currently working on 
-- Faculty of Education, Sebelas Maret Univerity as Backend and Frontend Developer.
-- Siaga Air Besih (SIAB) for Frontend Developer.
+### 👀 Currently working on 
+- Faculty of Education, Sebelas Maret Univerity as PHP Developer building a web with Laravel
+- Lawencon International for supporting Aisin Indonesia as PHP Developer using CodeIgneter 3
 
-## 📫 Social Media
+### 📫 Social Media
 <a href='https://www.linkedin.com/in/maryam-fadhillah-7089291aa/'><img align='left' src='https://raw.githubusercontent.com/maryamfadhillah/social-media-icon/main/images/linkedin.svg' width='21px'/></a>
 <a href='maryam@student.uns.ac.id'><img align='left' src='https://raw.githubusercontent.com/maryamfadhillah/social-media-icon/main/images/gmail.png' width='21px'/></a>
 
