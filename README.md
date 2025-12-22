@@ -1,5 +1,5 @@
 ### Hi there, I'm Maryam  
-<p>I currently work as a PHP Developer at Lawencon International. I've been using PHP for 4 years, along with its supportive companion, JavaScript.
+<p>I currently work as a PHP Developer at Lawencon International. I've been using PHP for 5 years, along with its supportive companion, JavaScript.
 
 There are so many frameworks and stacks we can use with PHP, and I’m eager to explore this environment further. I'm focused on improving my problem-solving skills to write clean, maintainable code.</p>
 
@@ -8,7 +8,7 @@ There are so many frameworks and stacks we can use with PHP, and I’m eager to 
 
 ### 👀 Currently working on 
 - Faculty of Education, Sebelas Maret Univerity as PHP Developer building a web with Laravel
-- Lawencon International for supporting Aisin Indonesia as PHP Developer using CodeIgneter 3
+- Lawencon International for supporting Aisin Indonesia as PHP Developer using CodeIgneter 3 and Laravel
 
 ### 📫 Social Media
 <a href='https://www.linkedin.com/in/maryam-fadhillah-7089291aa/'><img align='left' src='https://raw.githubusercontent.com/maryamfadhillah/social-media-icon/main/images/linkedin.svg' width='21px'/></a>
