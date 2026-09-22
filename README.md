@@ -7,7 +7,6 @@ There are so many frameworks and stacks we can use with PHP, and I’m eager to 
 - javascript (reach out my exercism profile <a href="https://exercism.org/profiles/maryamfadhillah">here</a>)
 
 ### 👀 Currently working on 
-- Faculty of Education, Sebelas Maret Univerity as PHP Developer building a web with Laravel
 - Lawencon International for supporting Aisin Indonesia as PHP Developer using CodeIgneter 3 and Laravel
 
 ### 📫 Social Media
